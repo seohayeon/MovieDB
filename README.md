@@ -11,6 +11,6 @@ MovieList            |  Detail
 ## What I used
 name           |  function
 :-------------------------:|:-------------------------:
-retrofit2 | send api request
+🌱retrofit2 | send api request
 Glide | The path of the image view to the web image
 RecyclerView | Compose the ListView
